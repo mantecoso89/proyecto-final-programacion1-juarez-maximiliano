@@ -14,8 +14,8 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
 1. **Clonar el repositorio:**
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/mantecoso89/proyecto-final-programacion1-juarez-maximiliano.git
+cd proyecto-final-programacion1-juarez-maximiliano
 ```
 
 2. **Crear y activar el entorno virtual:**
